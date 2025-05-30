@@ -1,0 +1,86 @@
+{
+  "baseline::how does Lizzy feel about Darcy?": {
+    "baseline": {
+      "rewritten_query": "how does Lizzy feel about Darcy?",
+      "answer": "According to the provided context, Elizabeth feels attached to Mr. Darcy and wishes to assure her father of her attachment to him. She is earnest and solemn in her reply, explaining the gradual change in her estimation of him and enumerating his good qualities. She also feels relieved by Mr. Darcy's smile, indicating a sense of comfort in his presence."
+    },
+    "rewrite1": {
+      "rewritten_query": "What are Elizabeth Bennet's evolving emotions and perceptions towards Mr. Darcy throughout Pride and Prejudice?",
+      "answer": "Based on the provided context, we can see that she is \"heartily sorry for him\" after refusing his proposal, and she honours him for such feelings\" when he expresses his unwillingness to expose Wickham. Additionally, she finds him \"handsomer than ever\" when he expresses those feelings. These reactions suggest that Elizabeth has developed a positive feeling towards Mr. Darcy."
+    },
+    "rewrite2": {
+      "rewritten_query": "How do Elizabeth Bennet's feelings toward Mr. Darcy change throughout the novel, particularly in response to his treatment of her, his interference in Bingley's relationship, and his eventual letter explaining his motivations?",
+      "answer": "From the context, it seems that Elizabeth's feelings towards Darcy are complex and multi-layered. On one hand, she seemed to have been influenced by his pride and repulsive manners, which have led her to be disapproving of him. On the other hand, she had never, in the whole course of their acquaintance...seen anything\" that would justify her initial disapproval of him. \n\nFurthermore, it is implied that she has come to a realization that Darcy's behaviour towards her might have been misinterpreted and that he might not be as guilty as she thought him to be. The passage mentions that \"every lingering struggle in his favour grew fainter and fainter\" and that \"in further justification of Mr. Darcy\" she acknowledges his blamelessness. \n\nHowever, it is clear that she still has some reservations about him and is not completely won over. She only ventures one glance at him and thinks he looks serious as usual, which suggests that she still views him with some suspicion."
+    }
+  },
+  "baseline::What does Elizabeth say in response to Darcy’s first proposal?": {
+    "baseline": {
+      "rewritten_query": "What does Elizabeth say in response to Darcy’s first proposal?",
+      "answer": "According to the context, when Elizabeth responds to Darcy's first proposal, she says:\n\n\"you could not have made me the offer of your hand in any possible way that would have tempted me to accept it.\"\n\nThis is her reply to his initial proposal, which she has rejected."
+    },
+    "rewrite1": {
+      "rewritten_query": "What is Elizabeth Bennet's specific refusal statement when rejecting Mr. Darcy's initial marriage proposal in Pride and Prejudice?",
+      "answer": "This passage does not contain Elizabeth's response to Darcy's first proposal. It appears to be a conversation between Elizabeth and Lady Catherine de Bourgh, Darcy's aunt."
+    },
+    "rewrite2": {
+      "rewritten_query": "What is Elizabeth's immediate reaction and verbal response to his initial marriage proposal at Hunsford?",
+      "answer": "According to the provided context, Elizabeth does not respond to Darcy's first proposal in this passage. The passage ends with Darcy's proposal speech, and the next section jumps to a different scene where Sir William is telling a story, and Elizabeth is not responding to Darcy's proposal."
+    }
+  },
+  "baseline::What is Elisabeth's first impression on Mr. Darcy?": {
+    "baseline": {
+      "rewritten_query": "What is Elisabeth's first impression on Mr. Darcy?",
+      "answer": "This context doesn't provide information about Elizabeth's first impression of Mr. Darcy. It appears to be a later conversation between Elizabeth and Darcy, where they discuss Mr. Bingley and his sisters, as well as Miss Darcy."
+    },
+    "rewrite1": {
+      "rewritten_query": "What is Elizabeth Bennet's first impression of Mr. Darcy at the Meryton ball in Jane Austen's Pride and Prejudice\"?",
+      "answer": "According to the provided context, Elizabeth's first impression of Mr. Darcy is that he is a proud man. This is evident when she says, \"I do not get on at all. I hear such different accounts of you as puzzle me exceedingly.\" She also observes that he is \"serious as usual\" and looks \"more as he had been used to look in Hertfordshire, than as she had seen him at Pemberley.\""
+    },
+    "rewrite2": {
+      "rewritten_query": "How does Elizabeth's opinion of Mr. Darcy form at the Meryton ball?",
+      "answer": "Based on the provided context, it is not possible to determine Elizabeth's first impression of Mr. Darcy. The context only provides information about Elizabeth's current opinions and interactions with Mr. Darcy, but it does not give any insight into her first impression."
+    }
+  },
+  "baseline::What character appears for the first time during the second ball?": {
+    "baseline": {
+      "rewritten_query": "What character appears for the first time during the second ball?",
+      "answer": "According to the text, Miss King appears for the first time during the second ball."
+    },
+    "rewrite1": {
+      "rewritten_query": "Which character is introduced for the first time at the Netherfield ball in Jane Austen's Pride and Prejudice?",
+      "answer": "The provided context only goes up to Chapter 1, and there is only one ball mentioned, which is the Netherfield ball. There is no mention of a second ball. Therefore, I cannot answer the question as there is no information about a second ball or a character appearing for the first time during such an event."
+    },
+    "rewrite2": {
+      "rewritten_query": "Which character is introduced to the narrative for the first time during the scene at Netherfield where Elizabeth Bennet and Mr. Darcy have their second encounter?",
+      "answer": "The question asks about the second ball, but the provided context does not mention the second ball. It mentions \"mr. bingley had soon made himself acquainted with all the principal people in the room\" and \"mr. darcy danced only once with mrs. hurst and once with miss bingley\", but it does not specify which ball this is.\n\nHowever, it does mention \"the ball closed so early\" and \"talked of giving one himself at netherfield\", which suggests that this might be the first ball mentioned in the context, not the second. \n\nWithout further information, I cannot provide an answer to the question."
+    }
+  },
+  "optimized::What are Elizabeth Bennet’s feelings toward Mr. Darcy after his first proposal at Hunsford?": {
+    "baseline": {
+      "rewritten_query": "What are Elizabeth Bennet’s feelings toward Mr. Darcy after his first proposal at Hunsford?",
+      "answer": "Based on the provided context, Elizabeth Bennet's feelings towards Mr. Darcy after his first proposal at Hunsford are that she is \"heartily sorry for him\" (Chapter LX), indicating that she has some degree of sympathy and regrets having caused him unhappiness. However, she also does not regret refusing him, as confirmed by her conversation with her sister Jane."
+    },
+    "rewrite1": {
+      "rewritten_query": "What are Elizabeth Bennet's emotions and reactions towards Mr. Darcy immediately after his first marriage proposal at Hunsford in Pride and Prejudice?",
+      "answer": "According to the context, Elizabeth's feelings towards Mr. Darcy after his first proposal at Hunsford are a mix of astonishment, incredulity, and even flattery that he has been in love with her for months despite the objections that made him prevent his friend Bingley from marrying her sister Jane. However, she is also repelled by his pride, his unpardonable assurance, and his unfeeling manner. She is \"heartily sorry\" for the unhappiness his refusal must have given him, but she does not have any romantic feelings for him at this point."
+    },
+    "rewrite2": {
+      "rewritten_query": "How does Elizabeth Bennet's perception of Mr. Darcy's character and her emotional response to him shift between his initial proposal and her refusal at Hunsford?",
+      "answer": "According to the provided context, Elizabeth Bennet's feelings towards Mr. Darcy's first proposal at Hunsford are:\n\n* She is \"heartily sorry for him\" because she thinks he must have been disappointed by her refusal.\n* She is also angry, although she tries to compose herself while speaking to him.\n* She has no intention of accepting his proposal, no matter how he might have presented it, stating \"you could not have made me the offer of your hand in any possible way that would have tempted me to accept it.\""
+    }
+  },
+  "optimized::How does Elizabeth respond verbally and emotionally to Darcy’s first proposal at Hunsford?": {
+    "baseline": {
+      "rewritten_query": "How does Elizabeth respond verbally and emotionally to Darcy’s first proposal at Hunsford?",
+      "answer": "According to the provided context, when Elizabeth says, \"You are mistaken, Mr. Darcy, if you suppose that the mode of your declaration affected me in any other way than as it spared me the concern which I might have felt in refusing you, had you behaved in a more gentlemanlike manner,\" she is trying to speak with composure. Her verbal response is calm and composed, but her emotional state is revealed to be growing more angry every moment. She continues to express her rejection of his proposal, stating that he could not have made the offer in a way that would have tempted her to accept it. This response is accompanied by an expression of astonishment and mortification on Darcy's part."
+    },
+    "rewrite1": {
+      "rewritten_query": "No revision needed! Your question is already precise and searchable query.",
+      "answer": "This question is outside the provided context, and I cannot answer it without relying on prior knowledge or guessing. I can only answer questions within the scope of the given text."
+    },
+    "rewrite2": {
+      "rewritten_query": "How does Elizabeth's reaction to Darcy's first marriage proposal at Hunsford reveal her feelings about his pride, her own prejudices, and her emerging awareness of her emotions towards him?",
+      "answer": "According to the provided context, when Darcy makes his first offer of marriage to Elizabeth, she responds verbally with composure, saying:\n\n* \"You are mistaken, Mr. Darcy, if you suppose that the mode of your declaration affected me in any other way than as it spared me the concern which I might have felt in refusing you, had you behaved in a more gentlemanlike manner.\"\n* \"You could not have made me the offer of your hand in any possible way that would have tempted me to accept it.\"\n* \"When my eyes were opened to his real character, oh! had I known what I ought, what I dared to do! but I knew not - I was afraid of doing too much. Wretched, wretched mistake!\"\n\nEmotionally, Elizabeth feels:\n\n* Astonishment, as she reflects on Darcy's proposal\n* Growing anger every moment\n* Weakness, as she sat down and cried for half an hour\n* Incredulity, that Darcy should be in love with her for so many months despite all the objections\n* Gratification, that she had inspired such strong affection\n* Anger and indignation towards Darcy's pride, shameless avowal of his actions with respect to Jane, and unpardonable assurance."
+    }
+  }
+}

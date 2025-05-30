@@ -1,0 +1,354 @@
+{
+  "baseline::how does Lizzy feel about Darcy?": {
+    "baseline": {
+      "rewritten_query": "how does Lizzy feel about Darcy?",
+      "answer": "Based on the context, Lizzy (Elizabeth) does not think highly of Mr. Darcy. Charlotte tries to warn Lizzy not to be bothered by Darcy's ill-treatment, implying that it would be a misfortune to be liked by him. Additionally, Charlotte describes Darcy as a \"disagreeable man\". This indicates that Lizzy, too, is not impressed with Darcy's behavior and likely views him unfavorably at this point in the novel."
+    },
+    "rewrite1": {
+      "rewritten_query": "What are Elizabeth Bennet's evolving emotions and opinions about Mr. Darcy throughout Pride and Prejudice?",
+      "answer": "At this point in the novel, Elizabeth's feelings towards Mr. Darcy are complex and have undergone a significant transformation. Initially, she was full of indignation and anger towards him, remembering his proud and haughty attitude towards her. However, after reading his letter and understanding his perspective, she began to feel compassion for his disappointed emotions and gratitude for his attachment towards her. She also developed respect for his general character. \n\nAlthough she could not repent her refusal of his first proposal, her feelings towards him had shifted dramatically. Eventually, she came to approve of him and grew to love him, as evident in her earnest and solemn reply to her father, where she assured him that Mr. Darcy was really the object of her choice, and she enumerated his good qualities with energy."
+    },
+    "rewrite2": {
+      "rewritten_query": "How do Elizabeth's perceptions and feelings toward Mr. Darcy evolve from their initial meeting to the resolution of the novel?",
+      "answer": "Based on the context, it's clear that Elizabeth (Lizzy) has strong feelings for Mr. Darcy. She is able to convince her father that Darcy is the object of her choice, and she enumerates his good qualities with energy. Later, she teases Darcy about how he fell in love with her, which suggests a playful and affectionate tone. It's clear that Elizabeth has overcome her initial prejudices and has come to deeply respect and love Mr. Darcy."
+    },
+    "rewrite3": {
+      "rewritten_query": "What are Elizabeth Bennet's initial impressions of Mr. Darcy at a ball?",
+      "answer": "In this context, it is clear that Elizabeth) has undergone a significant change in her estimation of Mr. Darcy has become the object of her choice, and she is convinced that his affection for her is genuine and long-standing. She is able to convince her father of this change and is delighted to observe the exchange between Darcy and his companion, Miss Bingley, which reaffirms her opinion of them. Therefore, Elizabeth now feels admiration and esteem for Mr. Darcy."
+    },
+    "rewrite4": {
+      "rewritten_query": "What are Elizabeth Bennet's feelings toward Mr. Darcy after his first proposal at Hunsford?",
+      "answer": "What a lovely passage! \n\nAccording to Elizabeth's words, she feels quite fond of Mr. Darcy. In the conversation with her father, she assures him that Mr. Darcy is \"really the object of her choice\" and enumerates his good qualities with energy. This indicates that she has developed strong positive feelings for him.\n\nInterestingly, this is contrasted with her earlier response, where she claims to think him \"very disagreeable\" when asked how well she knows him. This suggests that her opinion of him has undergone a significant change, and she has come to appreciate his qualities.\n\nSo, to summarize, Lizzy feels deeply fond of Mr. Darcy, considering him a desirable partner and valuing his positive qualities."
+    }
+  },
+  "baseline::What does Elizabeth say in response to Darcy’s first proposal?": {
+    "baseline": {
+      "rewritten_query": "What does Elizabeth say in response to Darcy’s first proposal?",
+      "answer": "Based on the context provided, it doesn't mention Elizabeth's response to Darcy's first proposal. To answer this question accurately, I'd need to refer to an earlier chapter in Pride and Prejudice, specifically Chapter 34. \n\nIn Chapter 34, Darcy makes his first proposal to Elizabeth, and she responds with a strong refusal, citing his role in separating Bingley from her sister Jane and his treatment of George Wickham. She says: \"I am perfectly convinced of your ignorance and impropriety of Darcy's behaviour, and I not only submitted in silence to this unjust accusation but I made no attempt to remove it, and as you did not understand me, it appeared to me that you were wilfully acting in that ignorance and impropriety.\""
+    },
+    "rewrite1": {
+      "rewritten_query": "What is Elizabeth Bennet's verbal response to Mr. Darcy's initial marriage proposal in Pride and Prejudice?",
+      "answer": "Actually, the passage doesn't show Elizabeth's response to Darcy's first proposal. The conversation mentioned is between Elizabeth and her father, Mr. Bennet, where she is trying to convince him that she truly loves Mr. Darcy and wants to marry him. \n\nIf you want to know Elizabeth's response to Darcy's first proposal, I can tell you that it is not in this particular passage, but it can be found in Chapter 34 of the novel. There, Elizabeth rejects Mr. Darcy's marriage, citing his role in separating Bingley from her sister Jane and his treatment of George Wickham."
+    },
+    "rewrite2": {
+      "rewritten_query": "What is Elizabeth's reaction to Darcy's initial marriage proposal, including her specific words and tone?",
+      "answer": "The provided context is actually a scene that takes place after Darcy's first proposal, which was rejected by Elizabeth. \n\nTo answer the question, we need to refer to a different part of the novel. \n\nIn response to Darcy's first proposal, Elizabeth says: \"In such ways as these, with such feelings as these, I am afraid of you, Mr. Darcy; but of your feelings, I, I, I am not afraid, for I have never in my life been so much mistaken as in supposing you to be what you are not, nor can I be so mistaken as to believe you to be what you have proved yourself to be. You may ask questions, which I shall not refuse to answer, and which, perhaps, it will give you some pleasure to know, that I do not think meanly of you, Mr. Darcy. But I am ready to assure you, I am not the sort of girl to be won by a gallant speech, nor am I so silly as to suppose that a man who has lived in the world, knows the world, and has sense, would be in love with a girl merely because she is a good walker, or can converse well.\""
+    },
+    "rewrite3": {
+      "rewritten_query": "What is Elizabeth’s rebuttal to his marriage proposal at Hunsford Parsonage?",
+      "answer": "In response to Darcy's first proposal, Elizabeth says:\n\n\"The present assault on your own integrity is a trick, and one that you would be ashamed of in a moment, if you were to see it in another light. [...] From the very beginning, your conduct has been faultless, and your honour and duty you have constantly kept before your eyes. [...] No; I am perfectly convinced that Mr. Darcy has no defect. He owns it himself without disguise. [...] You may ask questions, which I shall not refuse to answer, Sir.\""
+    },
+    "rewrite4": {
+      "rewritten_query": "A great question!\n\nHere's a rewritten version:\n\n\"What is Elizabeth Bennet's response to Mr. Darcy's marriage proposal at Hunsford?\"",
+      "answer": "I'm happy to help! However, I must point out that the provided context does not contain Elizabeth's response to Darcy's first proposal. The context appears to be describing a moment after Darcy's letter to Lady Catherine, which would be after his second proposal.\n\nIf you'd like, I can provide Elizabeth's response to Darcy's first proposal, which is a famous rejection: \"I am perfectly convinced that Mr. Darcy has been acting with the most noble and disinterested motives, and that his proposals were dictated by the truest and most honourable feelings. But, in rejecting him, I am not influenced by any slight or trifling reason, I am convinced that I am acting with the most perfect freedom, and that my refusal will give him very little pain.\""
+    }
+  },
+  "baseline::Why is Mr. Collins proposing to Elizabeth?": {
+    "baseline": {
+      "rewritten_query": "Why is Mr. Collins proposing to Elizabeth?",
+      "answer": "Mr. Collins is not proposing to Elizabeth in this passage. He has already proposed to Elizabeth and been rejected. He has now proposed to Charlotte Lucas and been accepted. The conversation is between Elizabeth and Mrs. Collins (née Charlotte Lucas), where Elizabeth is expressing her surprise and congratulations on Charlotte's engagement to Mr. Collins."
+    },
+    "rewrite1": {
+      "rewritten_query": "What motivates Mr. Collins' marriage proposal to Elizabeth Bennet in Jane Austen's Pride and Prejudice?",
+      "answer": "Mr. Collins is proposing to Elizabeth because, as the heir to the Longbourn estate, he feels it would be a convenient and suitable match to marry one of the Bennet daughters, thereby keeping the estate within the family."
+    },
+    "rewrite2": {
+      "rewritten_query": "What motivates Mr. Collins to propose to Elizabeth, given his patroness Lady Catherine's influence and his own social and economic circumstances?",
+      "answer": "Mr. Collins is proposing to Elizabeth because he believes it is his duty to marry, and he considers Elizabeth to be a suitable partner due to her inferior social standing and her being a member of his benefactress, Lady Catherine de Bourgh's, extended family. He also believes that marrying Elizabeth will strengthen his connection to Lady Catherine de Bourgh and secure his position as the rector of the parish."
+    },
+    "rewrite3": {
+      "rewritten_query": "What motivates Mr. Collins to propose to Elizabeth Bennet at Longbourn?",
+      "answer": "Mr. Collins is not specifically proposing to Elizabeth in this passage. In fact, Mrs. Bennet has occasionally suggested to Elizabeth the possibility of Mr. Collins might be partial to her, but Elizabeth has laughed at the idea. \n\nMr. Collins is actually interested in marrying one of the Bennet sisters, but his primary motivation is to marry a woman from the Bennet family to ensure the estate remains within the family, and to please his patroness, Lady Catherine de Bourgh. He views marrying a Bennet sister as a way to show his patroness that he is capable of making a advantageous marriage."
+    },
+    "rewrite4": {
+      "rewritten_query": "What motivates Mr. Collins to propose to Elizabeth Bennet when he visits the Bennet family at Longbourn?",
+      "answer": "Mr. Collins is not proposing to Elizabeth in this passage. He is not even mentioned as a suitor to Elizabeth in this specific context. In fact, the passage is more focused on the arrival of a new, wealthy young man who has taken Netherfield and Mrs. Bennet's hopes of marrying one of her daughters to this newcomer. Mr. Collins's role in the novel is well-known, and he does propose to Elizabeth later in the story, but that is not what is happening in this particular passage."
+    }
+  },
+  "baseline::Who does Elizabeth marry at the end of the novel?": {
+    "baseline": {
+      "rewritten_query": "Who does Elizabeth marry at the end of the novel?",
+      "answer": "I'd be delighted to answer that! According to the end of the novel, Elizabeth marries Mr. Darcy."
+    },
+    "rewrite1": {
+      "rewritten_query": "What is the identity of Elizabeth Bennet's husband at the novel's conclusion in Pride and Prejudice?",
+      "answer": "Dear reader, I'm delighted to report that Elizabeth Bennet, the witty and intelligent heroine of Jane Austen's Pride and Prejudice, ultimately marries the dashing Mr. Fitzwilliam Darcy! After overcoming numerous obstacles, including Darcy's initial disapproval and Elizabeth's own prejudices, the two are united in a loving and mutually respectful marriage that brings joy to all who know them."
+    },
+    "rewrite2": {
+      "rewritten_query": "What is the identity of Elizabeth Bennet's husband by the conclusion of the novel?",
+      "answer": "That's an easy one! Elizabeth marries Mr. Fitzwilliam Darcy at the end of the novel."
+    },
+    "rewrite3": {
+      "rewritten_query": "Who does Elizabeth Bennet choose to marry at the conclusion of the novel, considering her relationships with Mr. Darcy and Mr. Wickham?",
+      "answer": "Elizabeth marries Mr. Darcy at the end of the novel."
+    },
+    "rewrite4": {
+      "rewritten_query": "I can rewrite this question to be more specific and contextually grounded. Here's the rewritten question:\n\n\"Who does Elizabeth Bennet accept as her husband in the final chapter of the novel?\"",
+      "answer": "Elizabeth marries Mr. Darcy at the end of the novel."
+    }
+  },
+  "baseline::What is Elisabeth's first impression on Mr. Darcy?": {
+    "baseline": {
+      "rewritten_query": "What is Elisabeth's first impression on Mr. Darcy?",
+      "answer": "According to Pride and Prejudice, Elizabeth's first impression of Mr. Darcy was that he was proud and disagreeable."
+    },
+    "rewrite1": {
+      "rewritten_query": "What is Elizabeth Bennet's impression of Mr. Darcy at the Meryton ball?",
+      "answer": "Based on the text, we don't have a direct account of Elizabeth's first impression of Mr. Darcy. The passage focuses on Mr. Darcy's thoughts and feelings about Elizabeth and his efforts to conceal his admiration for her. \n\nHowever, we can infer that Elizabeth didn't have a favorable impression of Mr. Darcy initially. In an earlier passage in the novel, Elizabeth overheard Mr. Darcy saying, \"She is tolerable; I suppose, but not handsome enough to tempt me\" about her at a ball, which left a negative impression on her. This incident has been referenced several times in the novel, including in this passage.\n\nSo, although we don't have a direct account of her first impression, it is clear that Elizabeth did not initially think highly of him."
+    },
+    "rewrite2": {
+      "rewritten_query": "How does Elizabeth's opinion of Mr. Darcy form at the Meryton ball, and what influences her initial perception?",
+      "answer": "Elizabeth's first impression on Mr. Darcy is that she is not pretty, having \"hardly a good feature in her face.\""
+    },
+    "rewrite3": {
+      "rewritten_query": "What is Elisabeth Bennet's initial reaction to Mr. Darcy at the Meryton ball?",
+      "answer": "A delightful question!\n\nBased on the provided context, it is not possible to determine her first impression of Mr. Darcy directly. However, we can infer that her initial impression was not very favorable.\n\nIn the passage, we see that Mr. Darcy is trying to rein in his admiration for Elizabeth, suggesting that he has developed feelings for her over time. Moreover, Elizabeth is later seen enumerating Mr. Darcy's good qualities, indicating that her estimation of him has undergone a gradual transformation.\n\nIn other parts of Pride and Prejudice, it is revealed that Elizabeth's initial opinion of Mr. Darcy was shaped by his aloof and proud behavior at the Meryton assembly, where he famously dismissed her as \"not handsome enough to tempt him\" to dance. So, while we don't see her first impression explicitly in this passage, we can infer that her initial assessment of Mr. Darcy was likely negative."
+    },
+    "rewrite4": {
+      "rewritten_query": "What is Elizabeth Bennet's opinion of Mr. Darcy at the Meryton ball?",
+      "answer": "Based on previous chapters, Elizabeth's first impression of Mr. Darcy was that he was proud, disagreeable, and aloof. When they first met at the Meryton ball, Mr. Darcy refused to dance with her, declaring that she was \"not handsome enough to tempt him\" and that she was \"tolerable, but not handsome enough to tempt him\". This created a strong prejudice against him in Elizabeth's mind."
+    }
+  },
+  "baseline::What character appears for the first time during the second ball?": {
+    "baseline": {
+      "rewritten_query": "What character appears for the first time during the second ball?",
+      "answer": "According to the conversation, Captain Carter appears for the first time during the second ball."
+    },
+    "rewrite1": {
+      "rewritten_query": "Which character is introduced at the second ball in Pride and Prejudice?",
+      "answer": "The character who appears for the first time during the second ball is Mrs. Hurst."
+    },
+    "rewrite2": {
+      "rewritten_query": "Which character is introduced at the Netherfield ball, where Elizabeth and Darcy have their second encounter?",
+      "answer": "The answer is Wickham!"
+    },
+    "rewrite3": {
+      "rewritten_query": "Which character is introduced during the second ball at Netherfield Park?",
+      "answer": "Based on the context, I can identify that the character Colonel Forster is mentioned for the first time during this conversation. Therefore, I would answer that Colonel Forster appears for the first time during the second ball, as hinted by Miss Lucas's comment about opening the instrument, referring to the pianoforte, which typically accompanied balls and gatherings."
+    },
+    "rewrite4": {
+      "rewritten_query": "What character is introduced at the Netherfield ball, where Mr. Darcy dances with Elizabeth Bennet?",
+      "answer": "Mr. Wickham appears for the first time during the second ball."
+    }
+  },
+  "optimized::What are Elizabeth Bennet’s feelings toward Mr. Darcy after his first proposal at Hunsford?": {
+    "baseline": {
+      "rewritten_query": "What are Elizabeth Bennet’s feelings toward Mr. Darcy after his first proposal at Hunsford?",
+      "answer": "According to the text, Elizabeth Bennet thinks Mr. Darcy \"very disagreeable\" after his first proposal at Hunsford, indicating that her feelings towards him are strongly negative at that point."
+    },
+    "rewrite1": {
+      "rewritten_query": "What are Elizabeth Bennet's emotions and motivations in rejecting Mr. Darcy's first marriage proposal at Hunsford in Pride and Prejudice\"?",
+      "answer": "Elizabeth Bennet's feelings toward Mr. Darcy after his first proposal at Hunsford are those of strong dislike, offense, and resentment. She is outraged by his condescending manner, his interference in Bingley's relationship with her sister, and his role in separating Bingley from Jane. She vehemently rejects his proposal, citing his treatment of George Wickham and his own pride as reasons for her dislike. In essence, Elizabeth sees Mr. Darcy has done nothing to earn her respect or affection, and his proposal is perceived as an insult rather than a compliment."
+    },
+    "rewrite2": {
+      "rewritten_query": "How do Elizabeth Bennet's feelings toward Mr. Darcy evolve immediately following his first proposal at Hunsford and in the subsequent months?",
+      "answer": "Based on the context, Elizabeth Bennet's feelings toward Mr. Darcy after his first proposal at Hunsford are not mentioned in this particular passage. The passage actually shows Elizabeth convincing her father of her feelings for Mr. Darcy later in the novel. \n\nHowever, if you recall the earlier part of the novel, after Mr. Darcy's first proposal at Hunsford, she was furious, offended, and humiliated by his words, particularly his reference to her family's inferior social standing\". She rejected his proposal and made it clear that she could never love him."
+    },
+    "rewrite3": {
+      "rewritten_query": "What is Elizabeth Bennet's emotional response to Mr. Darcy's marriage proposal at Hunsford meeting?",
+      "answer": "Elizabeth Bennet's feelings towards Mr. Darcy after his proposal at Hunsford are that she finds him \"very disagreeable\"."
+    },
+    "rewrite4": {
+      "rewritten_query": "No rewrite needed! This question is already precise and contextually grounded. It's ready for semantic search and document retrieval.",
+      "answer": "After Mr. Darcy's first proposal at Hunsford, Elizabeth Bennet's feelings toward him are those of strong dislike, resentment, and even anger. She is offended by his arrogant and prideful manner, particularly when he implies that she should be grateful for his proposal despite her inferior social standing. Her rejection of him is firm and unequivocal, and she makes it clear that she will not be swayed by his wealth or social position."
+    }
+  },
+  "optimized::How does Elizabeth respond verbally and emotionally to Darcy’s first proposal at Hunsford?": {
+    "baseline": {
+      "rewritten_query": "How does Elizabeth respond verbally and emotionally to Darcy’s first proposal at Hunsford?",
+      "answer": "Elizabeth responds to Darcy's first proposal at Hunsford with a mix of anger, shock, and bewilderment. Verbally, she lets her feelings burst forth in a vigorous and bitter rejection, reproaching him for his earlier interference in Bingley's relationship with Jane, as well as his treatment of George Wickham. Emotionally, she is deeply offended by his haughty manner, his assumption that she would accept him, and the manner in which he presents his proposal, as an obligation he must fulfill. Her response is a testament to her strong sense of self-respect and independence, as she refuses to be swayed by his social standing or wealth."
+    },
+    "rewrite1": {
+      "rewritten_query": "(No rewrite needed. This question is already precise and searchable!)",
+      "answer": "Although the provided passage does not directly address Darcy's first proposal at Hunsford, I can provide the answer based on my knowledge of Pride and Prejudice.\n\nWhen Darcy makes his first proposal to Elizabeth, she responds verbally with anger, annoyance, and strong disapproval. She rejects his offer in a forthright manner, pointing out his role in separating Bingley from Jane and criticizing his treatment of George Wickham. Elizabeth's verbal response is characterized by her wit and strong opinions, which Darcy is not accustomed to encountering.\n\nOn an emotional level, Elizabeth feels insulted, offended, and disappointed. She is still under the impression that Darcy has wronged her sister and is outraged by his presumption in thinking she could accept his proposal despite his past behavior. Her emotions are intense and palpable, causing her to deliver a strong rebuke, which he does not expect.\n\nI hope this answers your question!"
+    },
+    "rewrite2": {
+      "rewritten_query": "What is Elizabeth's verbal and emotional reaction to Darcy's marriage proposal at Hunsford, and how does it reflect her understanding of him at that point in the story?",
+      "answer": "Elizabeth responds to Darcy's first proposal at Hunsford with great anger, indignation, and strong emotions. She refuses his proposal, and her response is characterized as being \"very severe\" (Chapter 34). She tells him that she is \"perfectly convinced\" of his \"arrogance and conceit\" and that she can \"easily account\" for his behavior towards her. She also confronts him about his role in separating Bingley from her sister and declares that she despises him. Her emotions are running high, and her verbal response is sharp and forceful, displaying her strong sense of self-respect and independence."
+    },
+    "rewrite3": {
+      "rewritten_query": "What is Elizabeth's tone and emotional reaction when rejecting Darcy's marriage proposal at Hunsford?",
+      "answer": "Elizabeth responds to Darcy's first proposal at Hunsford with strong verbal rejection, citing no sense of duty, gratitude, or principle that would obligate her to accept him. Emotionally, she appears unaffected, showing no concern for his family's or the world's potential scorn. Her tone is likely firm, possibly even disdainful, reflecting her still prevailing prejudices against him."
+    },
+    "rewrite4": {
+      "rewritten_query": "No rewrite needed! This question is already precise, contextually grounded, and suitable for semantic search and document retrieval. It specifically refers to the scene at Hunsford, making it easy to locate the corresponding passage in *Pride and Prejudice*.",
+      "answer": "Elizabeth responds to Darcy's first proposal at Hunsford with utter rejection, astonishment, and strong emotions. She verbally expresses her indignation and offense, citing his role in separating Bingley from Jane and his treatment of George Wickham. Elizabeth is outraged that Darcy would assume she could overlook his meddling and condescension, and she rebukes him for his arrogance in imagining she could accept his proposal. Her emotions are intense, as she feels deeply offended and insulted by his unexpected and poorly delivered proposal."
+    }
+  },
+  "optimized::What motivates Mr. Collins to propose marriage to Elizabeth Bennet, according to his own reasoning?": {
+    "baseline": {
+      "rewritten_query": "What motivates Mr. Collins to propose marriage to Elizabeth Bennet, according to his own reasoning?",
+      "answer": "Although the passage doesn't provide Mr. Collins' direct reasoning, we can infer his motivations from the surrounding context. According to Mrs. Collins' opinions, Mr. Collins proposed to Elizabeth Bennet because he believed that \"all her friend's dislike would vanish, if she could suppose him to be in her power.\" This suggests that Mr. Collins thought Elizabeth would accept his proposal because he, as the heir to the Longbourn estate, would be in a position of power and authority over her, and that this power would be enough to overcome her initial dislike of him."
+    },
+    "rewrite1": {
+      "rewritten_query": "What motivates Mr. Collins to propose marriage to Elizabeth Bennet, according to his own reasoning in Pride and Prejudice?",
+      "answer": "According to the novel, Mr. Collins proposes to Elizabeth because he believes it is his duty to marry a woman from the Bennet family, as he is the heir to the Longbourn estate. He sees it as a way to show his patroness, Lady Catherine de Bourgh, that he is a responsible and dutiful clergyman. Additionally, he thinks it would be a convenient and advantageous match, as it would bring him closer to the Bennet family and their connections. He does not consider Elizabeth's personal feelings or opinions in his proposal, only his own sense of obligation and self-interest."
+    },
+    "rewrite2": {
+      "rewritten_query": "What are Mr. Collins' self-proclaimed reasons for choosing Elizabeth Bennet as his potential wife?",
+      "answer": "Although this passage doesn't directly quote Mr. Collins' reasoning, we can infer his motivations from the context. \n\nMrs. Bennet is bitter about the entail, which means Mr. Collins will inherit Longbourn estate. Elizabeth and her sister Jane try to explain the entail to Mrs. Bennet, but she's beyond reason. It's implied that Mr. Collins is motivated to propose to Elizabeth because he wants to marry one of the Bennet sisters to unite the estate with the family. This way, he can salve his conscience about inheriting the estate, which he knows is resented by the Bennet family. Mr. Collins wants to appear benevolent and justify his inheritance by marrying a Bennet sister, which would make him seem less guilty of inheriting Longbourn."
+    },
+    "rewrite3": {
+      "rewritten_query": "What are Mr. Collins' self-proclaimed reasons for marrying Elizabeth Bennet at the Netherfield gathering?",
+      "answer": "According to the context, the motivation is not explicitly stated. However, based on previous chapters, we know that Mr. Collins proposes to Elizabeth because he believes it is his duty to marry one of the Bennet sisters, as the entailment of the estate will pass to a male heir. He considers Elizabeth a suitable choice because she is the second eldest, and he hopes to gain the approval of his patroness, Lady Catherine de Bourgh, by marrying into the family. Additionally, he believes himself to be a good match for Elizabeth, being a clergyman with a decent income, and expects her to be grateful for his condescension."
+    },
+    "rewrite4": {
+      "rewritten_query": "This question is already precise and well-grounded! No need to rewrite it. The answer can be found in the passage where Mr. Collins proposes to Elizabeth Bennet.",
+      "answer": "Mr. Collins' motivation for proposing to Elizabeth Bennet is to make amends for inheriting the Longbourn estate, which is entailed to him, and thus, taking it away from the Bennet sisters. He believes that by marrying one of the Bennet sisters, he will be making a benevolent gesture towards the family, thereby alleviating his own guilt and obligations towards them."
+    }
+  },
+  "optimized::Whom does Elizabeth Bennet marry by the end of *Pride and Prejudice*, and how is this decision reached?": {
+    "baseline": {
+      "rewritten_query": "Whom does Elizabeth Bennet marry by the end of *Pride and Prejudice*, and how is this decision reached?",
+      "answer": "A wonderful question about one of literature's most beloved couples!\n\nBy the end of Pride and Prejudice, Elizabeth Bennet marries Mr. Fitzwilliam Darcy. This decision is reached through a series of events, misunderstandings, and personal growth.\n\nInitially, Elizabeth is repelled by Darcy's haughty reserve and interference in Bingley's relationship with her sister. However, as the novel progresses, she discovers the truth about George Wickham's character and realizes her initial impressions of him were mistaken.\n\nMeanwhile, Darcy's true nature is slowly revealed, showcasing his loyalty, sense of responsibility, and genuine feelings for Elizabeth. His letter to Elizabeth, in which he explains his actions, marks a turning point in their relationship.\n\nDarcy's second proposal, which Elizabeth accepts, comes after he has made significant changes to his behavior and demonstrates his willingness to overcome his pride. Elizabeth, in turn, has learned to distinguish between surface-level attractions and true love, recognizing the value of his character and the depth of his emotions.\n\nUltimately, Elizabeth accepts Darcy's proposal, and they decide to marry, marking a union of two individuals who have overcome their initial biases and prejudices."
+    },
+    "rewrite1": {
+      "rewritten_query": "\"Who does Elizabeth Bennet marry in Austen's *Pride and Prejudice*, and what role do Darcy's proposal, Wickham's scandal, and her own self-reflection play in her decision?\"",
+      "answer": "By the end of Pride and Prejudice, Elizabeth Bennet marries Mr. Fitzwilliam Darcy. This decision is reached after a series of events and revelations that change Elizabeth's perception of Darcy. \n\nInitially, Elizabeth is prejudiced against Darcy due to his pride and perceived interference in Bingley-Jane relationship. However, as the novel progresses, Darcy's true nature is slowly revealed through his actions, particularly his role in resolving the Lydia-Wickham crisis and his heartfelt letter explaining his actions. These revelations, combined with Darcy's persisting affection for her, lead Elizabeth to reevaluate her opinion of him.\n\nWhen Darcy proposes to her for the second time, Elizabeth is more receptive to his affections and eventually accepts him. This decision is also influenced by her growing appreciation for Darcy's character and her recognition of the advantages a union with him would bring, not only in terms of wealth and social standing but also in the happiness and security it would provide.\n\nUltimately, Elizabeth's decision to marry Darcy is a result of her own personal growth, increased understanding, and a deeper appreciation for the qualities that make him a suitable partner."
+    },
+    "rewrite2": {
+      "rewritten_query": "What are the key events and realizations that lead Elizabeth Bennet to accept Mr. Darcy's second proposal of marriage by the novel's conclusion?",
+      "answer": "Elizabeth Bennet marries Mr. Darcy by the end of *Pride and Prejudice*. This decision is reached through a gradual change in Elizabeth's estimation of Mr. Darcy, which is facilitated by her repeated interactions with him, particularly during his visits to Pemberley and his role in resolving the Wickham-Lydia scandal. \n\nElizabeth's estimation of Darcy undergoes a significant transformation as she comes to realize his true character, witnessing his kindness to her sister Georgiana, his genuine concern for her family's reputation, and his unwavering affection for her. Her father, Mr. Bennet, is initially skeptical of Darcy's intentions, but Elizabeth's earnest and solemn explanations of her feelings and Darcy's good qualities eventually win him over, and he reconciles himself to the match."
+    },
+    "rewrite3": {
+      "rewritten_query": "Who does Elizabeth Bennet accept as her husband after overcoming her initial prejudice against him at Pemberley?",
+      "answer": "By the end of *Pride and Prejudice*, Elizabeth Bennet marries Fitzwilliam Darcy. This decision is reached through a series of events and realizations that take place throughout the novel.\n\nInitially, Elizabeth is prejudiced against Darcy due to his perceived pride and haughty reserve. However, as she gets to know him better, particularly through his letter explaining his actions towards George Wickham and his proposal to her at Hunsford, she begins to see him in a different light.\n\nMeanwhile, Darcy's admiration for Elizabeth only grows stronger, and he becomes more humble and self-aware, recognizing his own flaws and mistakes. After he helps Lydia and Wickham get married, Elizabeth is touched by his kindness and begins to feel grateful towards him.\n\nThe turning point comes when Darcy proposes to Elizabeth for the second time, and this time, he does so with a more humble and sincere attitude. Elizabeth, having come to realize her own biases and misconceptions, accepts his proposal, and they get engaged.\n\nThroughout the novel, Austen explores the themes of love, class, and social status, ultimately showing that true love can conquer even the most stubborn of prejudices, and that a marriage based on mutual respect, understanding, and affection is the most desirable outcome."
+    },
+    "rewrite4": {
+      "rewritten_query": "Here's a rewritten version:\n\n\"What is the outcome of Elizabeth Bennet's relationship with Mr. Darcy, and what events lead to her accepting his second proposal?\"",
+      "answer": "Elizabeth Bennet marries Mr. Darcy by the end of *Pride and Prejudice*. This decision is reached through a gradual process of growth and transformation in both characters. Initially, Elizabeth is prejudiced against Darcy due to his pride and perceived arrogance, while Darcy disapproves of Elizabeth's family connections and social standing. \n\nHowever, as they continue to interact, Darcy's letters to Elizabeth reveal his true character, and his actions demonstrate his love and devotion to her. Elizabeth, in turn, comes to recognize her own biases and misunderstandings, and her estimation of Darcy undergoes a significant change. \n\nUltimately, Elizabeth accepts Darcy's second proposal, and they become engaged. The decision is further solidified when Elizabeth convincingly assures her father of her choice, explaining the gradual change in her opinion of Darcy and enumerating his good qualities, thereby reconciling him to the match."
+    }
+  },
+  "optimized::How does Elizabeth Bennet perceive Mr. Darcy after meeting him for the first time at the Meryton assembly?": {
+    "baseline": {
+      "rewritten_query": "How does Elizabeth Bennet perceive Mr. Darcy after meeting him for the first time at the Meryton assembly?",
+      "answer": "Actually, the passage provided doesn't describe Elizabeth's first meeting with Mr. Darcy at the Meryton assembly. To answer your question, I'll need to refer to an earlier part of the novel.\n\nAfter their first meeting at the Meryton assembly, Elizabeth perceives Mr. Darcy as \"proud\" and \"disagreeable\". She overhears him making a comment about her not being handsome enough to tempt him to dance, which further solidifies her negative impression of him."
+    },
+    "rewrite1": {
+      "rewritten_query": "No rewrite needed! This is a precise and searchable query.",
+      "answer": "Elizabeth Bennet perceives Mr. Darcy as being proud and disagreeable after meeting him for the first time at the Meryton assembly."
+    },
+    "rewrite2": {
+      "rewritten_query": "What is Elizabeth Bennet's initial opinion of Mr. Darcy after their first encounter at the Meryton assembly, and how does it set the tone for her subsequent perceptions of him?",
+      "answer": "Elizabeth Bennet perceives Mr. Darcy as a proud and disagreeable man after meeting him for the first time at the Meryton assembly. She thinks he is \"proud, reserved, and disagreeable\", and believes he is looking down on the inferior assembly, considering himself above the rest."
+    },
+    "rewrite3": {
+      "rewritten_query": "What is Elizabeth's initial impression of Mr. Darcy's behavior and manner at the Meryton assembly?",
+      "answer": "Actually, the context provided doesn't mention her perception of Mr. Darcy at the Meryton assembly. The description of Mr. Darcy is from Elizabeth's current perspective, not from the first time they met. \n\nHowever, if you'd like to know how Elizabeth Bennet perceived Mr. Darcy at the Meryton assembly, I can tell you that she described him as \"proud\" and \" disagreeable\" and thought he was \"the proudest, most disagreeable man in the world\", and felt he was \"looking for a partner in distinction\" instead of being interested in dancing or socializing with others."
+    },
+    "rewrite4": {
+      "rewritten_query": "No rewrite needed! This question is precise and contextually grounded query suitable for semantic search and document retrieval.",
+      "answer": "Elizabeth Bennet perceives Mr. Darcy as proud and disagreeable after meeting him for the first time at the Meryton assembly."
+    }
+  },
+  "optimized::Which character is introduced for the first time at the Netherfield ball, and how do others react to them?": {
+    "baseline": {
+      "rewritten_query": "Which character is introduced for the first time at the Netherfield ball, and how do others react to them?",
+      "answer": "Mr. Darcy is introduced for the first time at the Netherfield ball. Others react to him by drawing ridicule and censure, as he declines being introduced to any other lady and spends the rest of the evening in walking about the room, speaking occasionally to one of his own party."
+    },
+    "rewrite1": {
+      "rewritten_query": "Who is introduced at the Netherfield ball, and how do Elizabeth Bennet and other characters react to them in Pride and Prejudice?",
+      "answer": "The character introduced for the first time at the Netherfield ball is Mr. Darcy. When Elizabeth meets him, she finds him to be proud and disagreeable, and she overhears his rude comments about her appearance. Meanwhile, Mr. Darcy himself is drawn to Elizabeth, but he tries to suppress his feelings, not wanting to give her the impression that he is interested in her."
+    },
+    "rewrite2": {
+      "rewritten_query": "Who is introduced at the Netherfield ball and how do Elizabeth, Darcy, and Wickham react to them initially and as the story unfolds?",
+      "answer": "The character introduced for the first time at the Netherfield ball is Mr. Wickham. Others react to him with ready delight, especially Lydia, who is extremely fond of lottery tickets and initially engrosses him entirely. However, as the game progresses, Lydia becomes too absorbed in making bets and exclaiming after prizes, allowing Mr. Wickham to talk to Elizabeth instead."
+    },
+    "rewrite3": {
+      "rewritten_query": "Who is introduced to Netherfield's guests at the ball, and how do the Bennet sisters respond to them?",
+      "answer": "The character introduced for the first time at the Netherfield ball is Mr. Darcy. As for how others react to him, Caroline Bingley gives to Jane the impression that Mr. Darcy is a great friend of her brother's. However, Elizabeth overhears Mr. Darcy making a scornful comment about her, saying she is \"tolerable, but not handsome enough to tempt\" him to dance with her. This, of course, prejudices Elizabeth against him."
+    },
+    "rewrite4": {
+      "rewritten_query": "Who is introduced at the Netherfield ball, and how do Mr. Darcy and Elizabeth Bennet react to them?",
+      "answer": "The character introduced for the first time at the Netherfield ball is not explicitly mentioned in the provided context. However, we can infer that it is likely Elizabeth Bennet, as she attracted Mr. Darcy's attention and Miss Bingley was uncivil to her. Additionally, Wickham's conversation with Elizabeth suggests that she was present at the Netherfield ball.\n\nAs for how others reacted to them, Miss Bingley was uncivil to Elizabeth, and Mr. Darcy was attracted to her, although he tried to conceal his admiration."
+    }
+  },
+  "optimized::What are Elizabeth Bennet’s thoughts about Mr. Darcy after reading his letter at Rosings Park?": {
+    "baseline": {
+      "rewritten_query": "What are Elizabeth Bennet’s thoughts about Mr. Darcy after reading his letter at Rosings Park?",
+      "answer": "After reading Mr. Darcy's letter at Rosings Park, Elizabeth Bennet's thoughts about him are complex and contradictory. On one hand, she still feels indignation when she remembers his condescending manner during their initial meeting. On the other hand, she acknowledges that she had misjudged and unfairly accused him. As a result, her anger shifts from Darcy to herself, and she begins to feel compassion for his disappointed feelings. Although she develops a sense of gratitude for his attachment and respect for his general character, she cannot bring herself to approve of him or regret her initial rejection."
+    },
+    "rewrite1": {
+      "rewritten_query": "What are Elizabeth Bennet's changed opinions and reflections on Mr. Darcy's character after reading his explanatory letter at Rosings Park in Pride and Prejudice?",
+      "answer": "After reading Mr. Darcy's letter at Rosings Park, Elizabeth Bennet's thoughts about him are complex and ambivalent. At times, she still feels indignation towards him, remembering the style of his initial proposal, which she found offensive. However, when she reflects on how unfairly she had judged and criticized him, her feelings shift, and she begins to feel compassion towards him. She is grateful for his attachment to her and respects his general character. Nevertheless, she cannot bring herself to approve of him or repent her initial refusal of his proposal."
+    },
+    "rewrite2": {
+      "rewritten_query": "How does Elizabeth Bennet's opinion of Mr. Darcy develop from her initial rejection to Rosings Park, considering her new insights from his explanatory letter?",
+      "answer": "After reading Mr. Darcy's letter at Rosings Park, Elizabeth Bennet's thoughts about him are complex and undergo a significant transformation. Initially, she still feels indignation towards his manner of address, but as she reflects on her own unjust condemnation and upbraiding of him, her anger shifts towards herself. She begins to feel compassion towards his disappointed feelings, and his attachment to her inspires gratitude. Additionally, she develops respect for his general character. However, despite this shift in her feelings, she still cannot approve of him, and nor does she regret her initial refusal of his proposal."
+    },
+    "rewrite3": {
+      "rewritten_query": "What are Elizabeth Bennet's reactions to Mr. Darcy's explanations and apologies in the letter she reads at Rosings Park?",
+      "answer": "Elizabeth's thoughts about Mr. Darcy after reading his letter at Rosings Park are complex and nuanced. On one hand, she still recalls his haughty manner of address and feels indignation towards him. However, when she reflects on how unjustly she had condemned and upbraided him, her anger turns against herself, and she begins to feel compassion for his disappointed feelings. She is grateful for his attachment to her and respects his character, but she cannot bring herself to approve of him or regret her refusal of his proposal."
+    },
+    "rewrite4": {
+      "rewritten_query": "No rewrite needed! Your question is already precise and contextually grounded, perfect for semantic search and document retrieval.",
+      "answer": "After reading Mr. Darcy's letter at Rosings Park, Elizabeth Bennet's thoughts about him are complex and multifaceted. Initially, she is shocked and embarrassed by his interference in Bingley's relationship with her sister Jane, and his role in separating Bingley from Jane. She feels a strong sense of indignation and resentment towards Darcy's haughty and superior demeanor.\n\nHowever, as she reflects on his letter and begins to see him in a new light, Elizabeth starts to recognize that Darcy's actions, though misguided, were motivated by a genuine concern for his friend Bingley's potential unhappiness. She begins to appreciate Darcy's honest, if prideful, nature.\n\nMoreover, Elizabeth is forced to confront her own prejudices and biases against Darcy, acknowledging that she had misjudged him based on limited information. She starts to see Darcy as a more nuanced and multidimensional character, capable of introspection and self-awareness.\n\nThrough this process, Elizabeth's estimation of Darcy begins to shift, and she starts to view him as a more desirable and attractive person, which paves the way for their eventual romance."
+    }
+  },
+  "optimized::How does Lady Catherine de Bourgh confront Elizabeth Bennet about the rumored engagement to Mr. Darcy?": {
+    "baseline": {
+      "rewritten_query": "How does Lady Catherine de Bourgh confront Elizabeth Bennet about the rumored engagement to Mr. Darcy?",
+      "answer": "Lady Catherine de Bourgh confronts Elizabeth Bennet about the rumored engagement to Mr. Darcy by arriving unexpectedly at the Bennet family home, Longbourn, and questioning Elizabeth about the rumors in a manner that is both imperious and insulting. Lady Catherine demands to know if the rumors are true, and when Elizabeth refuses to give her a direct answer, Lady Catherine becomes angry and condescending, reminding Elizabeth of her inferior social status and implying that she is unworthy of marrying her nephew."
+    },
+    "rewrite1": {
+      "rewritten_query": "No changes needed.",
+      "answer": "Lady Catherine de Bourgh does not appear in this passage. The conversation is between Mrs. Bennet, Lydia, and occasionally Mr. Bennet (who is not speaking but is mentioned as possibly \"spar[ing]\" Elizabeth and being asked to come and visit Lydia in the winter).\n\nIt is likely that you are thinking of a different passage in Pride and Prejudice, where Lady Catherine de Bourgh does confront Elizabeth Bennet about her rumored engagement to Mr. Darcy. If you could provide more context or clarify which passage you are thinking of, I'd be happy to help you with your question!"
+    },
+    "rewrite2": {
+      "rewritten_query": "How does Lady Catherine's accusation of Elizabeth's supposed engagement to Darcy unfold during their meeting at Hunsford Parsonage?",
+      "answer": "Lady Catherine de Bourgh confronts Elizabeth Bennet about the rumored engagement to Mr. Darcy by being extremely indignant and abusive, sending her language that indicates her great displeasure, stating \"I take no leave of you, Miss Bennet. I send no compliments to your mother. You deserve no such attention. I am most seriously displeased.\""
+    },
+    "rewrite3": {
+      "rewritten_query": "What accusations does Lady Catherine de Bourgh convey to Elizabeth at Rosings Park concerning Darcy and their supposed engagement?",
+      "answer": "Lady Catherine de Bourgh does not confront Elizabeth Bennet about the rumored engagement to Mr. Darcy in the provided context. Instead, Lady Catherine writes a letter to Mr. Darcy, expressing her extreme indignation and abuse towards Elizabeth upon hearing about their rumored engagement."
+    },
+    "rewrite4": {
+      "rewritten_query": "This question is already nicely specific! However, I can make it even more precise:\n\n\"In what tone and with what accusations does Lady Catherine de Bourgh question Elizabeth Bennet about her supposed engagement to Mr. Darcy at Rosings Park?\"",
+      "answer": "Lady Catherine de Bourgh does not confront Elizabeth Bennet about the rumored engagement to Mr. Darcy in this snippet. In fact, Lady Catherine de Bourgh has not even appeared in this passage. She is only mentioned as Mr. Collins' patroness, who has recently given him a living, and as the aunt of Mr. Darcy and the mother of Miss de Bourgh, who is expected to marry her cousin and unite the two estates."
+    }
+  },
+  "optimized::Why is Lydia Bennet’s marriage to Mr. Wickham considered scandalous by her family and society?": {
+    "baseline": {
+      "rewritten_query": "Why is Lydia Bennet’s marriage to Mr. Wickham considered scandalous by her family and society?",
+      "answer": "Lydia Bennet's marriage to Mr. Wickham is considered scandalous by her family and society because it was not concluded on honorable terms. Specifically, Wickham eloped with Lydia, which was considered a shameful and immoral act. Additionally, Wickham's character is known to be dishonorable, and his relationship with Lydia is likely to have been of a flirtatious and improper nature. The marriage is also seen as a shame to the Bennet family because it is a union with a man of inferior social standing and no fortune, which would have been expected to be a consideration in any marriage."
+    },
+    "rewrite1": {
+      "rewritten_query": "What social conventions and reputation concerns make her family object to her elopement with a militia officer in 19th-century England?",
+      "answer": "According to the passage, Lydia Bennet's marriage to Mr. Wickham is considered scandalous because she \"eloped and lived with\" him for a fortnight before the wedding, which was a major taboo in those times. In the eyes of society, this lack of propriety and modesty was a grave offense, and her family would view it as a serious breach of morality."
+    },
+    "rewrite2": {
+      "rewritten_query": "What social conventions and moral standards does Lydia's elopement with Wickham violate, leading to her family's disapproval and societal scandal?",
+      "answer": "Lydia Bennet's marriage to Mr. Wickham is considered scandalous by her family and society because it is a hasty, imprudent, and potentially ruinous match. Mr. Wickham is aware that Lydia's \"wild volatility, assurance, and disdain of all restraint\" led her to run off with him without a formal engagement or marriage, which would have been considered a breach of social propriety. \n\nFurthermore, it is implied that Lydia may have compromised her virtue by staying with Wickham unchaperoned, which would have been viewed as a grave reputational risk in the early 19th century. The Bennet family and society at large fear the consequences of her rash behavior, as it may tarnish their family's respectability, reputation, and social standing, with potential implications for the marriage prospects of her sisters, particularly Kitty."
+    },
+    "rewrite3": {
+      "rewritten_query": "What societal norms does Lydia's elopement with Wickham violate in 19th-century England?",
+      "answer": "According to the context, Lydia's marriage to Wickham is considered scandalous because of her \"unguarded and imprudent manner\" which has already led to public notice and has brought disadvantage to her family. This implies that Lydia's elopement with Wickham, a known scoundrel, was seen as a moral transgression and a breach of societal norms, bringing shame and disrepute to the Bennet family."
+    },
+    "rewrite4": {
+      "rewritten_query": "In what ways does the Bennet family perceive Lydia's elopement with Wickham as compromising their family's reputation?",
+      "answer": "Lydia Bennet's marriage to Mr. Wickham is considered scandalous by her family and society because Wickham is a disreputable officer with no fortune or connections, and Lydia, being a member of the Bennet family, has compromised her reputation by eloping with him without marrying well. This union was viewed as a \"disgrace\" and a \"scandal\" because it did not meet societal expectations for a woman of her station and upbringing."
+    }
+  },
+  "optimized::What event marks a major turning point in the relationship between Elizabeth Bennet and Mr. Darcy?": {
+    "baseline": {
+      "rewritten_query": "What event marks a major turning point in the relationship between Elizabeth Bennet and Mr. Darcy?",
+      "answer": "The major turning point in the relationship between Elizabeth Bennet and Mr. Darcy is when Elizabeth reads Darcy's letter, in which he explains his actions towards George Wickham and his concerns about the Bennet family, and apologizes for his earlier behavior towards her. This marks a significant shift in their relationship, as Elizabeth begins to see Darcy in a new light, and her initial prejudice against him starts to fade."
+    },
+    "rewrite1": {
+      "rewritten_query": "What is the significance of Darcy's first marriage proposal in Pride and Prejudice?",
+      "answer": "What a delightful question! Based on the provided context, I'd say the event that marks a major turning point in the relationship between Elizabeth Bennet and Mr. Darcy is when Darcy proposes to Elizabeth for the second time, and her subsequent acceptance of his proposal. This turning point is hinted at in the given passage, where Elizabeth is trying to convince her father of her decision to marry Mr. Darcy, explaining the gradual change in her estimation of him and enumerating his good qualities. This pivotal moment marks a significant shift in their relationship, as they move from misunderstandings and misconceptions to a deeper understanding and mutual affection."
+    },
+    "rewrite2": {
+      "rewritten_query": "What is the significance of Darcy's first proposal to Elizabeth in terms of their relationship development and character growth?",
+      "answer": "The event that marks a major turning point in the relationship between Elizabeth Bennet and Mr. Darcy is Darcy's proposal to Elizabeth at Hunsford, where he makes a passionate declaration of his love and pride, and Elizabeth rejects him. This turning point is significant because it prompts Darcy to reflect on his behavior, and eventually write a heartfelt letter explaining his actions and apologizing for his mistakes. This letter, in turn, prompts a significant shift in her perception of him, leading to a gradual change in her estimation of him, which ultimately culminates in her acceptance of his second proposal."
+    },
+    "rewrite3": {
+      "rewritten_query": "What is the significance of Mr. Darcy's first proposal to Elizabeth Bennet at Hunsford?",
+      "answer": "The event that marks a major turning point in the relationship between Elizabeth Bennet and Mr. Darcy is Mr. Darcy's letter to Elizabeth, in which he explains his actions and apologizes for his behavior, causing Elizabeth's estimation of him to undergo a gradual shift, ultimately leading to her realization that she loves him."
+    },
+    "rewrite4": {
+      "rewritten_query": "What is the significance of Mr. Darcy's letter to Elizabeth after she rejects his proposal at Hunsford?",
+      "answer": "The event that marks a major turning point in the relationship between Elizabeth Bennet and Mr. Darcy is his letter to her after she rejects his proposal at Rosings Park. In this letter, Darcy explains himself and his motivations, and it is through this letter that Elizabeth begins to see him in a new light and her estimation of him begins to change."
+    }
+  }
+}

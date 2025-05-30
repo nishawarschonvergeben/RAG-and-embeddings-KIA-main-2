@@ -1,0 +1,114 @@
+{
+  "How does Elisabeth feel about Darcy?": {
+    "baseline": {
+      "rewritten_query": "How does Elisabeth feel about Darcy?",
+      "answer": "Based on the provided context, it doesn't explicitly state how she feels about Darcy. However, we can make an inference that Elizabeth is not impressed or intimidated by Darcy's haughty reserve, as Georgiana notes that Darcy \"was still inflexibly studious\" despite Caroline's efforts to draw attention to Elizabeth's physical appearance. Additionally, Georgiana's description of Elizabeth's \"lively, sportive manner of talking to her brother\" suggests that Elizabeth is comfortable and playful around him, which might imply a certain level of ease and familiarity. But we can't pinpoint a specific emotion like admiration, affection, or dislike towards Darcy at this point in the novel."
+    },
+    "rewrite1": {
+      "rewritten_query": "What are Elisabeth Bennet's evolving emotions and perceptions towards Mr. Darcy throughout Pride and Prejudice?",
+      "answer": "Based on the context, Elizabeth's feelings towards Darcy are complex and nuanced. At times, she is still indignant when she remembers his haughty address. However, when she reflects on how unjustly she condemned him, she begins to feel compassionate towards his disappointed feelings. She is grateful for his attachment and respects his general character. Yet, she still cannot bring herself to approve of him or repent her initial refusal."
+    },
+    "rewrite2": {
+      "rewritten_query": "How do Elizabeth's feelings toward Darcy develop from initial dislike to eventual acceptance and understanding?",
+      "answer": "According to the passage, Elizabeth has a high regard for Mr. Darcy. She is earnest and solemn in her assurance that he is really the object of her choice, and she explains the gradual change in her estimation, citing his good qualities and the fact that his affection has stood the test of many months' suspense."
+    }
+  },
+  "Who does Lizzy end up with?": {
+    "baseline": {
+      "rewritten_query": "Who does Lizzy end up with?",
+      "answer": "My dear friend! I'm delighted to inform you that Lizzy, also known as Elizabeth Bennet, ends up with the proud and handsome Mr. Fitzwilliam Darcy. Despite their initial dislike of each other, they develop a deep and abiding love, which ultimately leads to their marriage."
+    },
+    "rewrite1": {
+      "rewritten_query": "Who does Elizabeth Bennet marry in Jane Austen's Pride and Prejudice?",
+      "answer": "In the end, Elizabeth Bennet (Lizzy) ends up marrying Mr. Fitzwilliam Darcy, not Mr. Bingley."
+    },
+    "rewrite2": {
+      "rewritten_query": "What is the ultimate romantic pairing of Elizabeth Bennet by the novel's conclusion?",
+      "answer": "According to the provided passage, there is no direct mention of who she ends up with. However, based on my extensive knowledge of Pride and Prejudice, I can confidently say that Elizabeth Bennet (Lizzy) ends up with Mr. Darcy, not Mr. Bingley, who is expected to marry Jane Bennet."
+    }
+  },
+  "how does Lizzy feel about Darcy?": {
+    "baseline": {
+      "rewritten_query": "how does Lizzy feel about Darcy?",
+      "answer": "Based on this context, Lizzy (Elizabeth) still views Mr. Darcy as a disagreeable man and does not have any positive feelings towards him. Charlotte is trying to persuade her not to be upset by Darcy's ill-treatment, implying that it would be a misfortune to be liked by him. Elizabeth is also informed about Darcy's voluntary actions for Lydia, which may have started to alter her perspective, but at this point, she still seems to hold a negative opinion of him."
+    },
+    "rewrite1": {
+      "rewritten_query": "What are Elizabeth Bennet's evolving emotions and perceptions of Mr. Darcy throughout Pride and Prejudice?",
+      "answer": "Based on the given context, Elizabeth's feelings towards Darcy are complex and evolving. Initially, she still remembers his prideful behavior and is indignant towards him. However, as she reflects on her own mistakes and his disappointed feelings, her anger turns inward, and she begins to feel compassion towards him.\n\nAlthough she acknowledges his attachment to her and respects his character, she doesn't entirely approve of him, and at this point, she doesn't repent her initial refusal. However, as she talks to her father, she reveals that her estimation of him has undergone a gradual change, and she has come to recognize his good qualities, his affection being genuine and long-standing.\n\nSo, to summarize, Elizabeth's feelings towards Darcy are transitioning from indignation and disapproval to understanding, compassion, and eventually, it seems, to acceptance and even affection."
+    },
+    "rewrite2": {
+      "rewritten_query": "How do Elizabeth Bennet's feelings toward Mr. Darcy change throughout the story?",
+      "answer": "At this point in the novel, Elizabeth still has mixed emotions towards Mr. Darcy. While she has come to recognize the error of her earlier judgments and feels gratitude for his attachment, respect for his character, and even compassion for his disappointed feelings, she still cannot fully approve of him or repent her initial refusal. She remains indignant when recalling his haughty behavior during their first proposals. However, she is actively working to overcome these negative feelings and is willing to marry him, primarily to alleviate her father's concerns and ensure her family's well-being."
+    }
+  },
+  "How does Darcy feel about Elisabeth?": {
+    "baseline": {
+      "rewritten_query": "How does Darcy feel about Elisabeth?",
+      "answer": "Based on the provided context, it can be inferred that Darcy remains \"inflexibly studious\" despite Lady Catherine's attempts to provoke him into disliking Elizabeth. This suggests that Darcy's interest in Elizabeth has not wavered and he may even be developing a deeper affection for her."
+    },
+    "rewrite1": {
+      "rewritten_query": "\"What are Mr. Darcy's changing attitudes towards Elizabeth throughout Pride and Prejudice?\"",
+      "answer": "Based on the context, it is evident that Mr. Darcy has a deep affection for Elizabeth. According to Elizabeth, \"his affection was not the work of a day, but had stood the test of many months' suspense.\" This suggests that Darcy's feelings for Elizabeth have been constant and unwavering over time, implying a strong emotional connection. His willingness to overcome his initial pride and wait for Elizabeth's acceptance further confirms the sincerity of his affection."
+    },
+    "rewrite2": {
+      "rewritten_query": "How do Darcy's feelings toward Elizabeth Bennet change from disapproval to admiration and romantic interest throughout the novel?",
+      "answer": "Based on the context, it is clear that Mr. Darcy has strong romantic feelings for Elizabeth. In his letter, he expresses his attachment to her, which Elizabeth's father later comes to understand. Elizabeth herself testifies to her father that Mr. Darcy's affection is not a fleeting feeling, but rather has stood the test of time."
+    }
+  },
+  "Why is Mr. Collins proposing to Elizabeth?": {
+    "baseline": {
+      "rewritten_query": "Why is Mr. Collins proposing to Elizabeth?",
+      "answer": "Mr. Collins is not proposing to Elizabeth in this passage. He has already proposed to Elizabeth and been rejected (as mentioned in previous chapters of Pride and Prejudice). In this passage, it is revealed that Mr. Collins has proposed to and been accepted by Charlotte Lucas, Elizabeth's friend."
+    },
+    "rewrite1": {
+      "rewritten_query": "What motivates Mr. Collins' marriage proposal to Elizabeth Bennet in Pride and Prejudice?",
+      "answer": "Mr. Collins is not proposing to Elizabeth in this passage. He had already proposed to Elizabeth in a previous chapter, and she rejected him. In this passage, Mrs. Collins (Charlotte) is discussing the idea that Mr. Collins might have been partial to Elizabeth, but Elizabeth always laughed at the suggestion."
+    },
+    "rewrite2": {
+      "rewritten_query": "What motivates Mr. Collins' proposal to Elizabeth is largely driven by his desire for a convenient and practical marriage, influenced by Lady Catherine's expectations and his own need for a wife to manage the entailment of the Bennet estate.",
+      "answer": "Actually, Mr. Collins is not proposing to Elizabeth in this passage. In fact, Elizabeth has already rejected Mr. Collins' proposal, which occurred in an earlier chapter of the novel.\n\nIn this passage, Mrs. Collins (formerly Charlotte Lucas) is discussing Elizabeth and Mr. Collins with Elizabeth, and suggests that Elizabeth should not be surprised if Mr. Collins were to marry someone else and gain that woman's admiration."
+    }
+  },
+  "Who does Elizabeth marry at the end of the novel?": {
+    "baseline": {
+      "rewritten_query": "Who does Elizabeth marry at the end of the novel?",
+      "answer": "Elizabeth Bennet marries Mr. Fitzwilliam Darcy at the end of the novel, Pride and Prejudice."
+    },
+    "rewrite1": {
+      "rewritten_query": "Who does Elizabeth Bennet marry at the end of Jane Austen's Pride and Prejudice?",
+      "answer": "Elizabeth marries Mr. Darcy."
+    },
+    "rewrite2": {
+      "rewritten_query": "Who does Elizabeth Bennet ultimately marry by the novel's conclusion?",
+      "answer": "Elizabeth marries Mr. Darcy, not Mr. Collins. In fact, Mr. Collins is rejected by Elizabeth early in the novel and eventually marries Charlotte Lucas, a friend. Mr. Darcy, on the other hand, propose to Elizabeth twice, and the second time, she accepts his proposal after he has proven himself to be a worthy partner."
+    }
+  },
+  "What is Elisabeth's first impression on Mr. Darcy?": {
+    "baseline": {
+      "rewritten_query": "What is Elisabeth's first impression on Mr. Darcy?",
+      "answer": "Elizabeth's first impression of Mr. Darcy is that he is proud and haughty. She overhears him making a derogatory comment about her and finds him to be disagreeable and arrogant. This initial impression sets the tone for their interactions throughout the novel, until Elizabeth comes to realize her mistake and Darcy reveals his true character."
+    },
+    "rewrite1": {
+      "rewritten_query": "What is Elizabeth Bennet's opinion of Mr. Darcy at the Meryton ball?",
+      "answer": "According to the novel Pride and Prejudice, Elizabeth Bennet's first impression of Mr. Darcy was that he was proud and disagreeable. She overheard him making a disparaging comment about her at a ball, saying that she was \"not handsome enough to tempt him\" to dance with her. This initial encounter formed a strong prejudice against him, which would take some time to overcome."
+    },
+    "rewrite2": {
+      "rewritten_query": "How does Elizabeth's opinion of Mr. Darcy form at the Meryton ball, and what influences her initial perception of him?",
+      "answer": "According to the text, Mr. Darcy's first impression of Elizabeth was that \"he had scarcely allowed her to be pretty\" and that she \"had hardly a good feature in her face\"."
+    }
+  },
+  "What character apperas for the first time during the second ball?": {
+    "baseline": {
+      "rewritten_query": "What character apperas for the first time during the second ball?",
+      "answer": "The character who appears for the first time during the second ball is Captain Carter."
+    },
+    "rewrite1": {
+      "rewritten_query": "Which character is introduced during the second ball in Pride and Prejudice?",
+      "answer": "Based on the context, the character who appears for the first time during the second ball is Mrs. Hurst."
+    },
+    "rewrite2": {
+      "rewritten_query": "Which character is introduced during the Netherfield ball, specifically during the second evening of the ball?",
+      "answer": "Colonel Forster!"
+    }
+  }
+}
